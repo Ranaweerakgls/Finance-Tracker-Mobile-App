@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Budgetlyst</string>
+
+    <!-- Bottom Navigation -->
+    <string name="dashboard">Dashboard</string>
+    <string name="transactions">Transactions</string>
+    <string name="budget">Budget</string>
+    <string name="settings">Settings</string>
+
+    <!-- Dashboard -->
+    <string name="income">Income</string>
+    <string name="expenses">Expenses</string>
+    <string name="balance">Balance</string>
+    <string name="budget_progress">Budget Progress</string>
+    <string name="no_budget_set">No budget set for this month</string>
+    <string name="spending_by_category">Spending by Category</string>
+    <string name="recent_transactions">Recent Transactions</string>
+    <string name="view_all">View All</string>
+    <string name="add_transaction">Add Transaction</string>
+
+    <!-- Transactions -->
+    <string name="previous_month">Previous Month</string>
+    <string name="next_month">Next Month</string>
+    <string name="edit_transaction">Edit Transaction</string>
+    <string name="delete_transaction">Delete Transaction</string>
+    <string name="delete_transaction_confirmation">Are you sure you want to delete the transaction \"%1$s\"?</string>
+    <string name="transaction_added">Transaction added successfully</string>
+    <string name="transaction_updated">Transaction updated successfully</string>
+    <string name="transaction_deleted">Transaction deleted successfully</string>
+    <string name="error_adding_transaction">Error adding transaction</string>
+    <string name="error_updating_transaction">Error updating transaction</string>
+
+    <!-- Budget -->
+    <string name="monthly_budget">Monthly Budget</string>
+    <string name="set_budget">Set Budget</string>
+    <string name="budget_amount">Budget Amount</string>
+    <string name="no_budget_set_for_month">No budget set for this month. Set a budget to track your spending.</string>
+    <string name="spent">Spent</string>
+    <string name="remaining">Remaining</string>
+    <string name="budget_good">You\'re on track with your budget</string>
+    <string name="budget_warning">You\'re approaching your budget limit</string>
+    <string name="budget_exceeded">You\'ve exceeded your budget</string>
+    <string name="budget_saved">Budget saved successfully</string>
+    <string name="error_saving_budget">Error saving budget</string>
+    <string name="expenses_by_category">Expenses by Category</string>
+    <string name="no_expenses_this_month">No expenses recorded for this month</string>
+
+    <!-- Settings -->
+    <string name="currency">Currency</string>
+    <string name="currency_updated">Currency updated</string>
+    <string name="notifications">Notifications</string>
+    <string name="budget_alerts">Budget Alerts</string>
+    <string name="daily_reminders">Daily Reminders</string>
+    <string name="data_management">Data Management</string>
+    <string name="backup_data">Backup Data</string>
+    <string name="restore_data">Restore Data</string>
+    <string name="backup_success">Data backed up successfully</string>
+    <string name="backup_failed">Failed to backup data</string>
+    <string name="restore_success">Data restored successfully</string>
+    <string name="restore_failed">Failed to restore data</string>
+
+    <!-- Transaction Form -->
+    <string name="title">Title</string>
+    <string name="amount">Amount</string>
+    <string name="category">Category</string>
+    <string name="date">Date</string>
+    <string name="expense">Expense</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="field_required">This field is required</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email_address">Email Address</string>
+    <string name="youremail_gmail_com">Youremail@gmail.com</string>
+    <string name="your_name">Your name</string>
+    <string name="i_agree_with_terms_of_service_and_privacy_policy">I Agree with Terms of Service and Privacy Policy</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="sign_in">Sign In</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="or_sign_in_with">Or sign in with</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="user_name">User Name</string>
+    <string name="create_an_account_to_start_looking_for_the_food_you_like">Create an account to start looking for the food you like</string>
+    <string name="create_your_new_account">Create your new account</string>
+    <string name="login_to_your_account">Login to your account.</string>
+    <string name="please_sign_in_to_your_account">Please sign in to your account</string>
+    <string name="get_started">Get Started</string>
+    <string name="next">Next</string>
+    <string name="don_t_have_account">Don\'t have an account?</string>
+    <string name="email_address_here">Email Address</string>
+    <string name="youremail_gmail_com_">youremail@gmail.com</string>
+    <string name="password_here">Password</string>
+    <string name="forgot_password_">Forgot password?</string>
+    <string name="Sign_in">Sign In</string>
+    <string name="or_sign_in_with_">Or sign in with</string>
+    <string name="Register">Register</string>
+    <string name="Signin">SignIn</string>
+    <string name="Signup">SignUp</string>
+
+</resources>
