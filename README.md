@@ -1,5 +1,5 @@
-Budgetlyst – Smart Personal Finance Tracker
-📱 A cross-platform mobile app designed to help you take control of your money effortlessly. Budgetlyst makes it easy to track expenses, monitor income, and achieve financial goals with real-time insights, intuitive analytics, and smart budgeting tools.
+- **Budgetlyst – Smart Personal Finance Tracker**
+ - 📱 A cross-platform mobile app designed to help you take control of your money effortlessly. Budgetlyst makes it easy to track expenses, monitor income, and achieve financial goals with real-time insights, intuitive analytics, and smart budgeting tools.
 
 ✨ Key Features
 📊 Expense & Income Tracking
