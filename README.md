@@ -2,21 +2,19 @@
     (Android Kotlin Edition)
 
 📱 App Overview
-Purpose: Offline-first expense tracker with smart budgeting
 
-Target Users: Individuals/families managing personal finances
-
-Core Value: Simple UI + powerful analytics in pure Kotlin
+  - Purpose: Offline-first expense tracker with smart budgeting
+  - Target Users: Individuals/families managing personal finances
+  - Core Value: Simple UI + powerful analytics in pure Kotlin
 
 ✨ Key Features
-1. Transaction Management
-Add/Edit Transactions:
 
-Instant saving with Room Database
-
-Category tagging (Food, Shopping, etc.)
-
-Recurring transaction support
+  1. Transaction Management
+     
+      - **Add/Edit Transactions:**
+          - Instant saving with Room Database
+          - Category tagging (Food, Shopping, etc.)
+          - Recurring transaction support
 
 2. Budget Control
 Monthly Budgets: Set limits per category
