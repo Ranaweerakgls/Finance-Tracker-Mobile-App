@@ -50,6 +50,6 @@
 
 Why Budgetlyst Stands Out?
 
-  ✔ Simple but powerful – No clutter, just what you need.
-  ✔ Works offline – Track expenses anywhere, anytime.
-  ✔ For everyone – Students, freelancers, families.
+  - ✔ Simple but powerful – No clutter, just what you need.
+  - ✔ Works offline – Track expenses anywhere, anytime.
+  - ✔ For everyone – Students, freelancers, families.
