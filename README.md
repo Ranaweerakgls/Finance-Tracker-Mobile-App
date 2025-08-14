@@ -1,6 +1,4 @@
-- **Budgetlyst - Personal Finance Tracker**
-    (Android Kotlin Edition)
-
+- **Budgetlyst - Personal Finance Tracker** (Android Kotlin Edition)
 📱 App Overview
 
   - Purpose: Offline-first expense tracker with smart budgeting
@@ -13,45 +11,40 @@
      
       - **Add/Edit Transactions:**
           - Instant saving with Room Database
-          - Category tagging (Food, Shopping, etc.)
+          - Category tagging (Food, Shopping,Education,Music etc.)
           - Recurring transaction support
 
-2. Budget Control
-Monthly Budgets: Set limits per category
+  2. Budget Control
+     
+      - Monthly Budgets: Set limits per category
+      - Real-time Tracking: Live progress bars
+      - Overspending Alerts: Push notifications
 
-Real-time Tracking: Live progress bars
+  3. Financial Insights
+     
+     - Interactive Charts: Using MPAndroidChart
+     - Spending Trends: Weekly/Monthly comparisons
+     - Export Data: Generate PDF/CSV reports
 
-Overspending Alerts: Push notifications
+  4. Security & Sync
+     
+     - Biometric Login: Fingerprint/Face ID
+     - Encrypted Storage: AndroidX Security Crypto
+     - Cloud Backup: Firebase Firestore sync
 
-3. Financial Insights
-Interactive Charts: Using MPAndroidChart
+  5. Customization
+     
+     - Dark/Light Mode: Jetpack Compose theming
+     - Multi-Currency: 10+ currencies supported
+       
 
-Spending Trends: Weekly/Monthly comparisons
-
-Export Data: Generate PDF/CSV reports
-
-4. Security & Sync
-Biometric Login: Fingerprint/Face ID
-
-Encrypted Storage: AndroidX Security Crypto
-
-Cloud Backup: Firebase Firestore sync
-
-5. Customization
-Dark/Light Mode: Jetpack Compose theming
-
-Multi-Currency: 10+ currencies supported
-
-🛠 Tech Stack
-Core Technologies
-Language: Kotlin 1.9 (with Coroutines)
-
-UI: Material 3
-
-Database: Room 2.6 (SQLite)
-
-Architecture: MVVM + Clean Architecture
-
+ - **🛠 Tech Stack**
+  
+     - Core Technologies
+     - Language: Kotlin 1.9 (with Coroutines)
+     - UI: Material 3
+     - Database: Room 2.6 (SQLite)
+     - Architecture: MVVM + Clean Architecture
 
 
 Why Budgetlyst Stands Out?
