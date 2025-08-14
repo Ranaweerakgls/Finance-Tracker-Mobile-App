@@ -1,58 +1,60 @@
-- **Budgetlyst – Smart Personal Finance Tracker**
- - 📱 A cross-platform mobile app designed to help you take control of your money effortlessly. Budgetlyst makes it easy to track expenses, monitor income, and achieve financial goals with real-time insights, intuitive analytics, and smart budgeting tools.
+- **Budgetlyst - Personal Finance Tracker**
+    (Android Kotlin Edition)
+
+📱 App Overview
+Purpose: Offline-first expense tracker with smart budgeting
+
+Target Users: Individuals/families managing personal finances
+
+Core Value: Simple UI + powerful analytics in pure Kotlin
 
 ✨ Key Features
-📊 Expense & Income Tracking
-Log transactions in seconds with customizable categories (Food, Shopping, Transport, etc.).
+1. Transaction Management
+Add/Edit Transactions:
 
-Quick-add feature for frequent expenses.
+Instant saving with Room Database
 
-Recurring transactions support (bills, subscriptions).
+Category tagging (Food, Shopping, etc.)
 
-Attach receipts (optional for premium users).
+Recurring transaction support
 
-💰 Budget Management
-Set monthly/weekly budgets for different categories.
+2. Budget Control
+Monthly Budgets: Set limits per category
 
-Get smart alerts when nearing budget limits.
+Real-time Tracking: Live progress bars
 
-"Spent vs. Remaining" progress bars for easy tracking.
+Overspending Alerts: Push notifications
 
-📈 Reports & Analytics
-Interactive charts (pie, bar graphs) for spending trends.
+3. Financial Insights
+Interactive Charts: Using MPAndroidChart
 
-Monthly/yearly comparisons to track financial growth.
+Spending Trends: Weekly/Monthly comparisons
 
-Export reports (PDF/CSV) for tax or personal review.
+Export Data: Generate PDF/CSV reports
 
-🌍 Multi-Currency Support
-Supports USD, EUR, INR, GBP, and more.
+4. Security & Sync
+Biometric Login: Fingerprint/Face ID
 
-Auto-conversion based on exchange rates (requires internet).
+Encrypted Storage: AndroidX Security Crypto
 
-☁️ Cloud Sync & Backup
-Secure Firebase sync across devices.
+Cloud Backup: Firebase Firestore sync
 
-One-tap backup & restore (Google Drive integration coming soon).
+5. Customization
+Dark/Light Mode: Jetpack Compose theming
 
-🌙 Dark/Light Mode + Custom Themes
-Eye-friendly dark mode for late-night budgeting.
+Multi-Currency: 10+ currencies supported
 
-Customizable accent colors (Pro feature).
+🛠 Tech Stack
+Core Technologies
+Language: Kotlin 1.9 (with Coroutines)
 
-🔔 Smart Notifications
-Daily reminders to log expenses.
+UI: Material 3
 
-Bill payment alerts (configurable).
+Database: Room 2.6 (SQLite)
 
-Budget milestone celebrations (e.g., "You saved 20% this month!").
+Architecture: MVVM + Clean Architecture
 
-🔒 Privacy & Security
-No ads, no data selling.
 
-Local storage option (no internet required).
-
-Biometric login (Face ID, fingerprint).
 
 Why Budgetlyst Stands Out?
 ✔ Simple but powerful – No clutter, just what you need.
